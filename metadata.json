@@ -1,0 +1,12 @@
+{
+  "name": "同学小样",
+  "description": "基于AI契约保障的校园轻社交工具，专注于“先用后付、用完即走”的临时搭子匹配。提供AI语音发单、广场展示、临时聊天室及数字契约报障等功能。",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "AI需求解析",
+    "实时匹配聊天",
+    "数字契约保障"
+  ]
+}
